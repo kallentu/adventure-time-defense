@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: ed551eebb3600b14086a0f582c0f78d4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_0
+    21300002: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_1
+    21300004: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_2
+    21300006: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_3
+    21300008: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_4
+    21300010: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_5
+    21300012: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_6
+    21300014: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_7
+    21300016: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_8
+    21300018: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_9
+    21300020: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_10
+    21300022: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_11
+    21300024: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_12
+    21300026: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_13
+    21300028: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_14
+    21300030: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_15
+    21300032: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_16
+    21300034: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_17
+    21300036: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_18
+    21300038: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_19
+    21300040: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_20
+    21300042: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_21
+    21300044: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_22
+    21300046: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_23
+    21300048: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_24
+    21300050: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_25
+    21300052: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_26
+    21300054: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_27
+    21300056: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_28
+    21300058: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_29
+    21300060: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_30
+    21300062: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_31
+    21300064: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_32
+    21300066: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_33
+    21300068: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_34
+    21300070: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_35
+    21300072: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_36
+    21300074: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_37
+    21300076: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_38
+    21300078: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_39
+    21300080: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_40
+    21300082: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_41
+    21300084: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_42
+    21300086: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_44
+    21300088: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_45
+    21300090: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_46
+    21300092: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_47
+    21300094: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_48
+    21300096: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_49
+    21300098: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_50
+    21300100: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_51
+    21300102: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_52
+    21300104: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_53
+    21300106: adventure_time_rpg__finn_s_battle_set_by_tebited15-d65mg8m_54
+    21300108: Fighting Jake_0
+    21300110: Fighting Jake_1
+    21300112: Fighting Jake_2
+    21300114: Fighting Jake_3
+    21300116: Fighting Jake_4
+    21300118: Fighting Jake_5
+    21300120: Fighting Jake_6
+    21300122: Fighting Jake_7
+    21300124: Fighting Jake_8
+    21300126: Fighting Jake_9
+    21300128: Fighting Jake_10
+    21300130: Fighting Jake_11
+    21300132: Fighting Jake_12
+    21300134: Fighting Jake_13
+    21300136: Fighting Jake_14
+    21300138: Fighting Jake_15
+    21300140: Fighting Jake_16
+    21300142: Fighting Jake_17
+    21300144: Fighting Jake_18
+    21300146: Fighting Jake_19
+    21300148: Fighting Jake_20
+    21300150: Fighting Jake_21
+    21300152: Fighting Jake_22
+    21300154: Fighting Jake_23
+    21300156: Fighting Jake_24
+    21300158: Fighting Jake_25
+    21300160: Fighting Jake_26
+    21300162: Fighting Jake_27
+    21300164: Fighting Jake_28
+    21300166: Fighting Jake_29
+    21300168: Fighting Jake_30
+    21300170: Fighting Jake_31
+    21300172: Fighting Jake_32
+    21300174: Fighting Jake_33
+    21300176: Fighting Jake_34
+    21300178: Fighting Jake_35
+    21300180: Fighting Jake_36
+    21300182: Fighting Jake_37
+    21300184: Fighting Jake_38
+    21300186: Fighting Jake_39
+    21300188: Fighting Jake_40
+    21300190: Fighting Jake_41
+    21300192: Fighting Jake_42
+    21300194: Fighting Jake_43
+    21300196: Fighting Jake_44
+    21300198: Fighting Jake_45
+    21300200: Fighting Jake_46
+    21300202: Fighting Jake_47
+    21300204: Fighting Jake_48
+    21300206: Fighting Jake_49
+    21300208: Fighting Jake_50
+    21300210: Fighting Jake_51
+    21300212: Fighting Jake_52
+    21300214: Fighting Jake_53
+    21300216: Fighting Jake_54
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 5
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Fighting Jake_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 258
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 258
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 257
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 256
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 259
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 260
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 260
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 259
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 259
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 257
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 260
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_11
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 259
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 195
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 195
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 195
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 195
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 195
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 195
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_18
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 195
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_19
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 194
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_20
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 194
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_21
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 194
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_22
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 194
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 131
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 131
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 131
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 131
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_27
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 131
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 131
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_29
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 131
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_30
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 130
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_31
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 130
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_32
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 130
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_33
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 130
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_34
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 75
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 75
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 75
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 75
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_38
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 75
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 75
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_40
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 74
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 74
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_42
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 74
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_43
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 93
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 17
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_46
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 17
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_47
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 17
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_48
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 17
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_49
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 17
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_50
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 17
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_51
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 17
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_52
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 17
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_53
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 17
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighting Jake_54
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 17
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

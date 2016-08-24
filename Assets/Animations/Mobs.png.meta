@@ -1,0 +1,1295 @@
+fileFormatVersion: 2
+guid: f1b542d4a3573094c81d09384537a3ee
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_0
+    21300002: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_1
+    21300004: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_2
+    21300006: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_3
+    21300008: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_4
+    21300010: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_5
+    21300012: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_6
+    21300014: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_7
+    21300016: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_8
+    21300018: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_9
+    21300020: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_10
+    21300022: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_11
+    21300024: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_12
+    21300026: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_13
+    21300028: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_14
+    21300030: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_15
+    21300032: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_16
+    21300034: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_17
+    21300036: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_18
+    21300038: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_19
+    21300040: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_20
+    21300042: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_21
+    21300044: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_22
+    21300046: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_23
+    21300048: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_24
+    21300050: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_25
+    21300052: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_26
+    21300054: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_27
+    21300056: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_28
+    21300058: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_29
+    21300060: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_30
+    21300062: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_31
+    21300064: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_32
+    21300066: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_33
+    21300068: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_34
+    21300070: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_35
+    21300072: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_36
+    21300074: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_37
+    21300076: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_38
+    21300078: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_39
+    21300080: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_40
+    21300082: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_41
+    21300084: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_42
+    21300086: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_43
+    21300088: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_44
+    21300090: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_45
+    21300092: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_46
+    21300094: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_47
+    21300096: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_48
+    21300098: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_49
+    21300100: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_50
+    21300102: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_51
+    21300104: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_52
+    21300106: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_53
+    21300108: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_54
+    21300110: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_55
+    21300112: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_56
+    21300114: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_57
+    21300116: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_58
+    21300118: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_59
+    21300120: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_60
+    21300122: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_61
+    21300124: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_62
+    21300126: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_63
+    21300128: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_64
+    21300130: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_65
+    21300132: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_66
+    21300134: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_67
+    21300136: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_68
+    21300138: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_69
+    21300140: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_70
+    21300142: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_71
+    21300144: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_72
+    21300146: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_73
+    21300148: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_74
+    21300150: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_75
+    21300152: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_76
+    21300154: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_77
+    21300156: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_78
+    21300158: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_79
+    21300160: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_80
+    21300162: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_81
+    21300164: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_82
+    21300166: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_83
+    21300168: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_84
+    21300170: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_85
+    21300172: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_86
+    21300174: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_87
+    21300176: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_88
+    21300178: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_89
+    21300180: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_90
+    21300182: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_91
+    21300184: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_92
+    21300186: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_93
+    21300188: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_94
+    21300190: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_95
+    21300192: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_96
+    21300194: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_97
+    21300196: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_98
+    21300198: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_99
+    21300200: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_100
+    21300202: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_101
+    21300204: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_102
+    21300206: adventure_time_rpg__candy_people_overworlds_by_tebited15-d58vz7q_103
+    21300208: Mobs_0
+    21300210: Mobs_1
+    21300212: Mobs_2
+    21300214: Mobs_3
+    21300216: Mobs_4
+    21300218: Mobs_5
+    21300220: Mobs_6
+    21300222: Mobs_7
+    21300224: Mobs_8
+    21300226: Mobs_9
+    21300228: Mobs_10
+    21300230: Mobs_11
+    21300232: Mobs_12
+    21300234: Mobs_13
+    21300236: Mobs_14
+    21300238: Mobs_15
+    21300240: Mobs_16
+    21300242: Mobs_17
+    21300244: Mobs_18
+    21300246: Mobs_19
+    21300248: Mobs_20
+    21300250: Mobs_21
+    21300252: Mobs_22
+    21300254: Mobs_23
+    21300256: Mobs_24
+    21300258: Mobs_25
+    21300260: Mobs_26
+    21300262: Mobs_27
+    21300264: Mobs_28
+    21300266: Mobs_29
+    21300268: Mobs_30
+    21300270: Mobs_31
+    21300272: Mobs_32
+    21300274: Mobs_33
+    21300276: Mobs_34
+    21300278: Mobs_35
+    21300280: Mobs_36
+    21300282: Mobs_37
+    21300284: Mobs_38
+    21300286: Mobs_39
+    21300288: Mobs_40
+    21300290: Mobs_41
+    21300292: Mobs_42
+    21300294: Mobs_43
+    21300296: Mobs_44
+    21300298: Mobs_45
+    21300300: Mobs_46
+    21300302: Mobs_47
+    21300304: Mobs_48
+    21300306: Mobs_49
+    21300308: Mobs_50
+    21300310: Mobs_51
+    21300312: Mobs_52
+    21300314: Mobs_53
+    21300316: Mobs_54
+    21300318: Mobs_55
+    21300320: Mobs_56
+    21300322: Mobs_57
+    21300324: Mobs_58
+    21300326: Mobs_59
+    21300328: Mobs_60
+    21300330: Mobs_61
+    21300332: Mobs_62
+    21300334: Mobs_63
+    21300336: Mobs_64
+    21300338: Mobs_65
+    21300340: Mobs_66
+    21300342: Mobs_67
+    21300344: Mobs_68
+    21300346: Mobs_69
+    21300348: Mobs_70
+    21300350: Mobs_71
+    21300352: Mobs_72
+    21300354: Mobs_73
+    21300356: Mobs_74
+    21300358: Mobs_75
+    21300360: Mobs_76
+    21300362: Mobs_77
+    21300364: Mobs_78
+    21300366: Mobs_79
+    21300368: Mobs_80
+    21300370: Mobs_81
+    21300372: Mobs_82
+    21300374: Mobs_83
+    21300376: Mobs_84
+    21300378: Mobs_85
+    21300380: Mobs_86
+    21300382: Mobs_87
+    21300384: Mobs_88
+    21300386: Mobs_89
+    21300388: Mobs_90
+    21300390: Mobs_91
+    21300392: Mobs_92
+    21300394: Mobs_93
+    21300396: Mobs_94
+    21300398: Mobs_95
+    21300400: Mobs_96
+    21300402: Mobs_97
+    21300404: Mobs_98
+    21300406: Mobs_99
+    21300408: Mobs_100
+    21300410: Mobs_101
+    21300412: Mobs_102
+    21300414: Mobs_103
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 5
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mobs_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 492
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 492
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 492
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 492
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 494
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 494
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 494
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 494
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_8
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 479
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_9
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 479
+        width: 17
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 479
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 479
+        width: 17
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 440
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 440
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 440
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 440
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 453
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 453
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 453
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 453
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_20
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 427
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_21
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 427
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_22
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 427
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_23
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 427
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 339
+        width: 31
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 339
+        width: 27
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 339
+        width: 31
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_27
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 339
+        width: 27
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_28
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 387
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_29
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 387
+        width: 20
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_30
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 387
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 387
+        width: 20
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_32
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 350
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_33
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 350
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_34
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 350
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_35
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 350
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_36
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 337
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_37
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 337
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_38
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 337
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_39
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 337
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_40
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 301
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_41
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 301
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_42
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 301
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_43
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 301
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_44
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 271
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_45
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 271
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 271
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_47
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 271
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_48
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 296
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_49
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 296
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_50
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 296
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_51
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 296
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 205
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_53
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 205
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_54
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 205
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_55
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 205
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_56
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 211
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_57
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 210
+        width: 22
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_58
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 210
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_59
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 210
+        width: 22
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_60
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 246
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_61
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 246
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_62
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 246
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_63
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 246
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_64
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 201
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_65
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 201
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_66
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 201
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_67
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 201
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_68
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 147
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_69
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 147
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_70
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 147
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_71
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 147
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_72
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 130
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_73
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 130
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_74
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 130
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_75
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 130
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_76
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 165
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_77
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 165
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_78
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 165
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_79
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 165
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_80
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 84
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_81
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 84
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_82
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 84
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_83
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 84
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_84
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 80
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_85
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 80
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_86
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 80
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_87
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 80
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_88
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 95
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_89
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 95
+        width: 10
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_90
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 95
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_91
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 95
+        width: 10
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_92
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_93
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 18
+        width: 17
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_94
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 18
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_95
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 18
+        width: 17
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_96
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 21
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_97
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 21
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_98
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 21
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_99
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 21
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_100
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 29
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_101
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 29
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_102
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 29
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mobs_103
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 29
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

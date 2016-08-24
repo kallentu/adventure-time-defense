@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 043558d0cc1c17b4b80f6bb7df95f53a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_0
+    21300002: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_1
+    21300004: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_2
+    21300006: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_3
+    21300008: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_4
+    21300010: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_5
+    21300012: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_6
+    21300014: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_7
+    21300016: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_8
+    21300018: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_9
+    21300020: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_10
+    21300022: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_11
+    21300024: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_12
+    21300026: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_13
+    21300028: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_14
+    21300030: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_15
+    21300032: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_16
+    21300034: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_17
+    21300036: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_18
+    21300038: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_19
+    21300040: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_20
+    21300042: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_22
+    21300044: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 5
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 13
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 13
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 13
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 11
+        width: 40
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 13
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_5
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 13
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_6
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 13
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_7
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 15
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_8
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 15
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_9
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 15
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_10
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 15
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_11
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 13
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_12
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 15
+        width: 33
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_13
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 15
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_14
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 15
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_15
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 15
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_16
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 15
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_17
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 13
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_18
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 15
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_19
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 16
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_20
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 16
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 13
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure_time_rpg__finn_s_sword_attack_by_tebited15-d63av8r_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 13
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

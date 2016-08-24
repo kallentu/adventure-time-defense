@@ -1,0 +1,1007 @@
+fileFormatVersion: 2
+guid: 659718e97f0fc5d4eb7e3d9af20443cf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: adventure_time_rpg_overworlds_by_tebited15-d47spwv_0
+    21300002: adventure_time_rpg_overworlds_by_tebited15-d47spwv_1
+    21300004: adventure_time_rpg_overworlds_by_tebited15-d47spwv_2
+    21300006: adventure_time_rpg_overworlds_by_tebited15-d47spwv_3
+    21300008: adventure_time_rpg_overworlds_by_tebited15-d47spwv_4
+    21300010: adventure_time_rpg_overworlds_by_tebited15-d47spwv_5
+    21300012: adventure_time_rpg_overworlds_by_tebited15-d47spwv_6
+    21300014: adventure_time_rpg_overworlds_by_tebited15-d47spwv_7
+    21300016: adventure_time_rpg_overworlds_by_tebited15-d47spwv_8
+    21300018: adventure_time_rpg_overworlds_by_tebited15-d47spwv_9
+    21300020: adventure_time_rpg_overworlds_by_tebited15-d47spwv_10
+    21300022: adventure_time_rpg_overworlds_by_tebited15-d47spwv_11
+    21300024: adventure_time_rpg_overworlds_by_tebited15-d47spwv_12
+    21300026: adventure_time_rpg_overworlds_by_tebited15-d47spwv_13
+    21300028: adventure_time_rpg_overworlds_by_tebited15-d47spwv_14
+    21300030: adventure_time_rpg_overworlds_by_tebited15-d47spwv_15
+    21300032: adventure_time_rpg_overworlds_by_tebited15-d47spwv_16
+    21300034: adventure_time_rpg_overworlds_by_tebited15-d47spwv_17
+    21300036: adventure_time_rpg_overworlds_by_tebited15-d47spwv_18
+    21300038: adventure_time_rpg_overworlds_by_tebited15-d47spwv_19
+    21300040: adventure_time_rpg_overworlds_by_tebited15-d47spwv_20
+    21300042: adventure_time_rpg_overworlds_by_tebited15-d47spwv_21
+    21300044: adventure_time_rpg_overworlds_by_tebited15-d47spwv_22
+    21300046: adventure_time_rpg_overworlds_by_tebited15-d47spwv_23
+    21300048: adventure_time_rpg_overworlds_by_tebited15-d47spwv_24
+    21300050: adventure_time_rpg_overworlds_by_tebited15-d47spwv_25
+    21300052: adventure_time_rpg_overworlds_by_tebited15-d47spwv_26
+    21300054: adventure_time_rpg_overworlds_by_tebited15-d47spwv_27
+    21300056: adventure_time_rpg_overworlds_by_tebited15-d47spwv_28
+    21300058: adventure_time_rpg_overworlds_by_tebited15-d47spwv_29
+    21300060: adventure_time_rpg_overworlds_by_tebited15-d47spwv_30
+    21300062: adventure_time_rpg_overworlds_by_tebited15-d47spwv_31
+    21300064: adventure_time_rpg_overworlds_by_tebited15-d47spwv_32
+    21300066: adventure_time_rpg_overworlds_by_tebited15-d47spwv_33
+    21300068: adventure_time_rpg_overworlds_by_tebited15-d47spwv_34
+    21300070: adventure_time_rpg_overworlds_by_tebited15-d47spwv_35
+    21300072: adventure_time_rpg_overworlds_by_tebited15-d47spwv_36
+    21300074: adventure_time_rpg_overworlds_by_tebited15-d47spwv_37
+    21300076: adventure_time_rpg_overworlds_by_tebited15-d47spwv_38
+    21300078: adventure_time_rpg_overworlds_by_tebited15-d47spwv_39
+    21300080: adventure_time_rpg_overworlds_by_tebited15-d47spwv_40
+    21300082: adventure_time_rpg_overworlds_by_tebited15-d47spwv_41
+    21300084: adventure_time_rpg_overworlds_by_tebited15-d47spwv_42
+    21300086: adventure_time_rpg_overworlds_by_tebited15-d47spwv_43
+    21300088: adventure_time_rpg_overworlds_by_tebited15-d47spwv_44
+    21300090: adventure_time_rpg_overworlds_by_tebited15-d47spwv_45
+    21300092: adventure_time_rpg_overworlds_by_tebited15-d47spwv_46
+    21300094: adventure_time_rpg_overworlds_by_tebited15-d47spwv_47
+    21300096: adventure_time_rpg_overworlds_by_tebited15-d47spwv_48
+    21300098: adventure_time_rpg_overworlds_by_tebited15-d47spwv_49
+    21300100: adventure_time_rpg_overworlds_by_tebited15-d47spwv_50
+    21300102: adventure_time_rpg_overworlds_by_tebited15-d47spwv_51
+    21300104: adventure_time_rpg_overworlds_by_tebited15-d47spwv_52
+    21300106: adventure_time_rpg_overworlds_by_tebited15-d47spwv_53
+    21300108: adventure_time_rpg_overworlds_by_tebited15-d47spwv_54
+    21300110: adventure_time_rpg_overworlds_by_tebited15-d47spwv_55
+    21300112: adventure_time_rpg_overworlds_by_tebited15-d47spwv_56
+    21300114: adventure_time_rpg_overworlds_by_tebited15-d47spwv_57
+    21300116: adventure_time_rpg_overworlds_by_tebited15-d47spwv_58
+    21300118: adventure_time_rpg_overworlds_by_tebited15-d47spwv_59
+    21300120: adventure_time_rpg_overworlds_by_tebited15-d47spwv_60
+    21300122: adventure_time_rpg_overworlds_by_tebited15-d47spwv_61
+    21300124: adventure_time_rpg_overworlds_by_tebited15-d47spwv_62
+    21300126: adventure_time_rpg_overworlds_by_tebited15-d47spwv_63
+    21300128: adventure_time_rpg_overworlds_by_tebited15-d47spwv_64
+    21300130: adventure_time_rpg_overworlds_by_tebited15-d47spwv_65
+    21300132: adventure_time_rpg_overworlds_by_tebited15-d47spwv_66
+    21300134: adventure_time_rpg_overworlds_by_tebited15-d47spwv_67
+    21300136: adventure_time_rpg_overworlds_by_tebited15-d47spwv_68
+    21300138: adventure_time_rpg_overworlds_by_tebited15-d47spwv_69
+    21300140: adventure_time_rpg_overworlds_by_tebited15-d47spwv_70
+    21300142: adventure_time_rpg_overworlds_by_tebited15-d47spwv_71
+    21300144: adventure_time_rpg_overworlds_by_tebited15-d47spwv_72
+    21300146: adventure_time_rpg_overworlds_by_tebited15-d47spwv_73
+    21300148: adventure_time_rpg_overworlds_by_tebited15-d47spwv_74
+    21300150: adventure_time_rpg_overworlds_by_tebited15-d47spwv_75
+    21300152: adventure_time_rpg_overworlds_by_tebited15-d47spwv_76
+    21300154: adventure_time_rpg_overworlds_by_tebited15-d47spwv_77
+    21300156: adventure_time_rpg_overworlds_by_tebited15-d47spwv_78
+    21300158: adventure_time_rpg_overworlds_by_tebited15-d47spwv_79
+    21300160: Character Walks_0
+    21300162: Character Walks_1
+    21300164: Character Walks_2
+    21300166: Character Walks_3
+    21300168: Character Walks_4
+    21300170: Character Walks_5
+    21300172: Character Walks_6
+    21300174: Character Walks_7
+    21300176: Character Walks_8
+    21300178: Character Walks_9
+    21300180: Character Walks_10
+    21300182: Character Walks_11
+    21300184: Character Walks_12
+    21300186: Character Walks_13
+    21300188: Character Walks_14
+    21300190: Character Walks_15
+    21300192: Character Walks_16
+    21300194: Character Walks_17
+    21300196: Character Walks_18
+    21300198: Character Walks_19
+    21300200: Character Walks_20
+    21300202: Character Walks_21
+    21300204: Character Walks_22
+    21300206: Character Walks_23
+    21300208: Character Walks_24
+    21300210: Character Walks_25
+    21300212: Character Walks_26
+    21300214: Character Walks_27
+    21300216: Character Walks_28
+    21300218: Character Walks_29
+    21300220: Character Walks_30
+    21300222: Character Walks_31
+    21300224: Character Walks_32
+    21300226: Character Walks_33
+    21300228: Character Walks_34
+    21300230: Character Walks_35
+    21300232: Character Walks_36
+    21300234: Character Walks_37
+    21300236: Character Walks_38
+    21300238: Character Walks_39
+    21300240: Character Walks_40
+    21300242: Character Walks_41
+    21300244: Character Walks_42
+    21300246: Character Walks_43
+    21300248: Character Walks_44
+    21300250: Character Walks_45
+    21300252: Character Walks_46
+    21300254: Character Walks_47
+    21300256: Character Walks_48
+    21300258: Character Walks_49
+    21300260: Character Walks_50
+    21300262: Character Walks_51
+    21300264: Character Walks_52
+    21300266: Character Walks_53
+    21300268: Character Walks_54
+    21300270: Character Walks_55
+    21300272: Character Walks_56
+    21300274: Character Walks_57
+    21300276: Character Walks_58
+    21300278: Character Walks_59
+    21300280: Character Walks_60
+    21300282: Character Walks_61
+    21300284: Character Walks_62
+    21300286: Character Walks_63
+    21300288: Character Walks_64
+    21300290: Character Walks_65
+    21300292: Character Walks_66
+    21300294: Character Walks_67
+    21300296: Character Walks_68
+    21300298: Character Walks_69
+    21300300: Character Walks_70
+    21300302: Character Walks_71
+    21300304: Character Walks_72
+    21300306: Character Walks_73
+    21300308: Character Walks_74
+    21300310: Character Walks_75
+    21300312: Character Walks_76
+    21300314: Character Walks_77
+    21300316: Character Walks_78
+    21300318: Character Walks_79
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 5
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Character Walks_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 215
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 215
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 215
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 215
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 215
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 215
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 216
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 216
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 216
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_9
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 228
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_10
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 231
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 228
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 224
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_13
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 224
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_14
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 224
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_15
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 166
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_16
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 218
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_17
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 218
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_18
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 218
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_19
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 164
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_20
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 164
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_21
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 164
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_22
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 166
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_23
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 166
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_24
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 166
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 171
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 171
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 171
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_28
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 171
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 171
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_30
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 171
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_31
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 172
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 172
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_33
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 172
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_34
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 181
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_35
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 184
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_36
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 182
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_37
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 171
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_38
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 171
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_39
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 172
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_40
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 125
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 125
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_42
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 125
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_43
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 125
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_44
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 125
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_45
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 125
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_46
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 126
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_47
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 126
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_48
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 126
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 135
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_50
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 137
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_51
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 134
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_52
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 103
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_53
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 103
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_54
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 103
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_55
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 86
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_56
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 86
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_57
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 86
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_58
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 86
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_59
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 125
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_60
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 124
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_61
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 124
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_62
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 78
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_63
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 78
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_64
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 78
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_65
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 78
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_66
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 78
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_67
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 78
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_68
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 79
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_69
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 79
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_70
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 79
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_71
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 87
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_72
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 90
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_73
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 87
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_74
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 41
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_75
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 41
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_76
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 41
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_77
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 77
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_78
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Walks_79
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 77
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
